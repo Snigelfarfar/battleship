@@ -5,4 +5,5 @@
 int main()
 {
   printf("blyat");
+  /*/ dra helvete /*/
 }
